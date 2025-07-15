@@ -49,5 +49,8 @@ Discovered the importance of choosing reliable and simple APIs for lightweight t
 Conclusion:
 This task was a great introduction to integrating external data sources (APIs) with Python programs and presenting data visually. It demonstrates how even simple API responses can be transformed into meaningful visual insights with the help of Python’s powerful libraries. This skill is widely used in dashboards, reporting tools, and data-driven decision-making applications.
 
-
+#output
+<img width="1000" height="503" alt="Image" src="https://github.com/user-attachments/assets/3b90e21a-fa43-47eb-8960-337fa559ee52" />
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/4bf2632c-48c8-4f33-8d18-130664fc9015" />
+<img width="800" height="632" alt="Image" src="https://github.com/user-attachments/assets/35746303-0dcf-4c2e-8c41-e2de6fb82bb3" />
 
